@@ -1,1 +1,10 @@
 Today is monday.
+No it is Tuesday 
+
+Tommorow is Wedndesay 
+
+Dunham: currency and time zones
+Bo: weight and distance
+Caleb: Temperature and 
+Elena: number systems and 
+Daniel: Speed and angles (radians to degrees)
